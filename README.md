@@ -1,16 +1,15 @@
-# quiz_app
+# quiz_app_flutter
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project Consists of 3 screens:
 
-A few resources to get you started if this is your first Flutter project:
+1. Welcome screen : shows welcome text , TextFormField for the user to enter his name and button to start the quiz.
+2. Quiz screen : shows the timer 'using LinearTimer package' , list of questions and answers.
+3. Result screen : shows the username and his score and a button to start quiz again.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://github.com/Shrouk-Ashraf/quiz_app_flutter/assets/68174886/392d3f7c-e179-49a5-a7c2-1026553a9e96
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
